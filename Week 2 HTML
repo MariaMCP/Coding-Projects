@@ -1,0 +1,54 @@
+<!--This is a single line comment and will not do anything.-->
+
+<body>
+  <div id="menuWrapper">
+    <div id="menu">
+      <ul>
+        <li><a href="#section1">Section one's title</a></li>
+        <li><a href="#section2">Section two's title</a></li>
+        <li><a href="#section3">Section three's title</a></li>
+        <li><a href="#section4">Section four's title</a></li>
+      </ul>
+    </div>
+ </div>
+
+     <h1>Main Title Here</h1>
+
+    <h2 id="section1">Section one's title goes here.</h2>
+    <p>Just type what you would like to say about section one here. You can add a picture of section one's topic pretty easily if you would like to.</p>
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/0f/9b/5a/0f9b5a84d55a04ad1e17c33b3ea4de0b.jpg">
+    
+    <h2 id="section2">The title for section two will go here.</h2>
+    <p>You should put information about section two here.</p>
+    <img src="http://www.camdenny.com/oneidalake/fishing.jpg" alt="man fishing as the sun sets">
+    
+    <h2 id="section3">The title for section 3 goes here.</h2>
+    <p>This is where you will put your information for section three.</p>
+    <img src="http://www.tlc-vancouver.com/wp-content/uploads/2015/05/4.jpg">
+    
+    <h2 id="section4">Section four's title here</h2>
+    <p>Information about section four here.</p> 
+
+    <p>You can also add links by doing this: <a href="https://github.com/mariaMCP" target="blank">GitHub Profile</a>.</p>
+
+    <!--For forms that you create outside of codepen, formspree is a really easy way to make your form function. However, it doesn't work with codepen.--> 
+
+    <form action="https://formspree.io/mariabultena@gmail.com"
+      method="POST">
+    <input type="text" placeholder="Your Name" name="name">
+    <input type="text" placeholder="Your Message" name="message">
+    <input type="email" placeholder="Your Email Address" name="_replyto"> <br>
+    <input type="submit" value="Send">
+    </form>
+    
+    <!-- This is an example of how to use comments to disable something without deleting it.
+    <form action="https://formspree.io/mariabultena@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+    </form>
+
+    Always remember to close out your comment.-->
+
+  </body>
