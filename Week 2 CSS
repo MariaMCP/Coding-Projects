@@ -1,4 +1,8 @@
-* {
+body {
+/*
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/1a/bb/bd/1abbbd7bb566933044418a8ce6fbbb7f.jpg");
+  background-size: 100%;
+  */
   font-family: arial;
 }
 h1 {
